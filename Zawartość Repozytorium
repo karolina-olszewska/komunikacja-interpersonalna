@@ -1,0 +1,20 @@
+# Komunikacja Interpersonalna  
+
+## Opis projektu  
+Witam, oto moje autorskie repozytorium związane z modułem studiów "Komunikacja Interpersonalna". Znajdziesz tutaj:  
+1. Materiały dotyczące psychologii w literaturze, w szczególności analizy powieści psychologicznych takich jak *Zbrodnia i kara* Fiodora 
+Dostojewskiego oraz *Lalka* Bolesława Prusa.  
+2. Analizy komunikacji werbalnej i niewerbalnej w tekstach kultury, takich jak filmy i seriale.  
+
+Repozytorium ma na celu połączenie zagadnień literackich z psychologią i komunikacją, aby ukazać, jak te dziedziny wzajemnie się przenikają.  
+
+## Zawartość  
+- **Przemówienie**: Materiały przygotowawcze oraz pełny tekst przemówienia na temat psychologii w literaturze, z przykładami z *Zbrodni i kary*
+oraz *Lalki*.  
+- **Analiza komunikacji w tekstach kultury**: Opisy i refleksje dotyczące sposobu komunikacji bohaterów w wybranych filmach lub serialach.  
+- **Materiały dodatkowe**: Linki i notatki związane z tematyką komunikacji interpersonalnej oraz psychologii literatury.  
+
+## Jak korzystać?  
+1. Skopiuj repozytorium na swój komputer cena 5 zl pozdro  
+   ```bash  
+   git clone https://github.com/karolina-olszewska/komunikacja-interpersonalna  
