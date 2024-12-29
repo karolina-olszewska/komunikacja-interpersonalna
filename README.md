@@ -17,4 +17,9 @@ stadium mordercy, przemiana metamorfoza, znaczenie snów
 w kontekście Freuda: mechanizm obronny ego - racjonalizacja, wyparcie 
 zbrodnia jako ucieczka od wewnętrznego konfliktu (poczucie niższości)  
 katharsis (kurwa sonia, przynosi ulgę i boga, paradokslnie)  
-Nietzsche filozofia nadczłowiek zaburzenie percepcji otaczającego świata
+Nietzsche filozofia nadczłowiek zaburzenie percepcji otaczającego świata  
+
+oto tabelka gwoli podsumowania:  
+| Lalka | Zbrodnia i kara|
+|-----------|-----------|
+| stadium idealisty | stadium mordercy|
