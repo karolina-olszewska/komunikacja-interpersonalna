@@ -31,4 +31,24 @@ Nietzsche filozofia nadczłowiek zaburzenie percepcji otaczającego świata
 oto tabelka gwoli podsumowania:  
 | Lalka | Zbrodnia i kara|
 |-----------|-----------|
-| stadium idealisty | stadium mordercy|
+| stadium idealisty | stadium mordercy| 
+
+chat:
+
+Dzień                      | Emocje                                                        |
+|---------------------------|----------------------------------------------------------------|
+| **Poniedziałek**          | Frustracja, przebłysk motywacji       |
+| **Wtorek**                | Nadzieja, lekkie zwątpienie, zachwyt nad przypadkowym cytatem |
+| **Środa**                 | Przeciążenie bodźcami, melancholia egzystencjalna             |
+| **Czwartek**              | Ukojenie po treningu, nostalgia, drobna irytacja               |
+| **Piątek**                | Ekscytacja, odrobina tęsknoty za kimś, impuls do działania     |
+| **Sobota**                | Rozmarzenie, lekka samotność, kreatywny flow                   |
+| **Niedziela**             | Rezygnacja z rzeczywistości, chwilowa akceptacja losu          |
+| **Dzisiaj (poniedziałek)**| Znużenie świate, ironiczny optymizm ||
+
+
+kartka od pani:
+spokojny, wypoczęty, odprężony, nostalgiczny - cały tydzień
+zresetowany rozluźniony - środa dzień loda tj. dzisiaj
+
+
