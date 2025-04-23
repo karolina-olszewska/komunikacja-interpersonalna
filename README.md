@@ -57,8 +57,8 @@ emocja przyjemna
 gdzie w swoim ciele odczuwasz tę emocję? xd w mózgu  
 nie dam rady się przed nią kryć ej ej nostalgiaa
 jakiego koloru jest twoja emocja? niebieskiego
-jaka konsystencja? miękka i miła w dotyku
-jakie zwierzę? - brak odniesienia z mojej strony
+jaka konsystencja? miękka i miła w dotyku  
+jakie zwierzę? - brak odniesienia z mojej strony  
 jaką informację przekazuje ci twoja emocja? czego potrzebujesz? powrotu do przeszłości  
 jak możesz to zaspokoić? -
 
